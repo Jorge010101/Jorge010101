@@ -1,4 +1,4 @@
-## **Hi there** 👋
+## **Hola, mi nombre es Jorge Alzamora** 👋
 ### Data Analyst - Industrial engineer
 Soy ingeniero Industrial desde 2022.
 
