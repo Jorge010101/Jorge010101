@@ -3,7 +3,7 @@
 Soy ingeniero Industrial desde 2022.
 
 ## Encuentramé en:
-[![LinkedIn](https://www.linkedin.com/in/jorge-alzamora-nisperuza/)
+[LinkedIn](https://www.linkedin.com/in/jorge-alzamora-nisperuza/)
 </br>
 
 <!--
