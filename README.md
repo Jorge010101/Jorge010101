@@ -1,4 +1,9 @@
 ## **Hi there** 👋
+### Data Analyst - Industrial engineer
+Soy ingeniero Industrial desde 2022.
+
+##Encuentramé en:
+[![LinkedIn](https://www.linkedin.com/in/jorge-alzamora-nisperuza/)
 
 <!--
 **Jorge010101/Jorge010101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
